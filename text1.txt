@@ -1,7 +1,7 @@
 
 first version control programm:-
 
-first c++ programm:-
+first c programm:-
 
 
 #include<stdio.h>  
@@ -35,3 +35,22 @@ End of programm.
 OUTPUT:-
 Enter the value of n?12
 144
+
+Second version control programm:-
+
+first c++ programm:-
+
+#include <iostream>
+using namespace std;
+void change(int data);
+int main()
+{
+int data = 3;
+change(data);
+cout << "Value of the data is: " << data<< endl;
+return 0;
+}
+void change(int data)
+{
+data = 5;
+}
