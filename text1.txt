@@ -1,7 +1,7 @@
 first programm:-
 
 #include<stdio.h>  
-int fibonacci(int);  
+iint fibonacci(int);  
 void main ()  
 {  
     int n,f;  
@@ -22,7 +22,7 @@ int fibonacci (int n)
     }  
     else  
     {  
-        return fibonacci(n-1)+fibonacci(n-2);  
+        return fibonacci(n-1)+fibonacci(n-2);// Recursive call  
     }  
 }  
 
