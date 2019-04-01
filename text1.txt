@@ -45,7 +45,7 @@ using namespace std;
 void change(int data);
 int main()
 {
-int data = 3;
+int data = 3; // initialization of data
 change(data);
 cout << "Value of the data is: " << data<< endl;
 return 0;
