@@ -54,3 +54,6 @@ void change(int data)
 {
 data = 5;
 }
+
+OUTPUT:-
+Value of the data is: 3
