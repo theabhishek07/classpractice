@@ -56,4 +56,4 @@ data = 5;
 }
 
 OUTPUT:-
-Value of the data is: 3
+Value of the data is: 3.
