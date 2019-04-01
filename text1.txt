@@ -1,4 +1,4 @@
-first programm:-
+first c++ programm:-
 
 #include<stdio.h>  
 iint fibonacci(int);  
@@ -27,3 +27,7 @@ int fibonacci (int n)  // fibonacci function
 }  
 
 End of programm.
+
+OUTPUT:-
+Enter the value of n?12
+144
