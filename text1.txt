@@ -10,7 +10,7 @@ void main ()
     f = fibonacci(n);  
     printf("%d",f);  
 }  
-int fibonacci (int n)  
+int fibonacci (int n)  // fibonacci function
 {  
     if (n==0)  
     {  
